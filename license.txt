@@ -1,4 +1,4 @@
-File uploader component is licensed under GNU GPL 2 or later, see gpl-2.0.txt.
+File uploader component is licensed under GNU GPL 2 or later and GNU LGPL 2 or later.
 © 2010 Andrew Valums
 
 This distribution also includes:
